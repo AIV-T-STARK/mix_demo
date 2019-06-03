@@ -1,8 +1,8 @@
 # Base project for using Laravel mix 
 
-[Người thực hiện](#trainee)
+Người thực hiện: [Nguyễn Gia Hào](#trainee)
 
-[Live](link-github-page)
+Live: [Live](https://aiv-t-stark.github.io/mix_demo/public)
 
 ## Goal
 

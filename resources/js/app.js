@@ -1,1 +1,1 @@
-alert("Ahihi ...");
+alert("Nghiêm túc!");
